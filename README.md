@@ -1,16 +1,17 @@
 👋 Hi there , I'm Kamalika Vetsa
 
-A Computer Science Student
+A Computer Science Student ,
 An Aspiring Software Developer
 
  🚀 About Me
 
 🌱 Currently learning Data Structures & Algorithms in Java
-🤖 Exploring **Artificial Intelligence & Machine Learning
+🤖 Exploring Artificial Intelligence & Machine Learning
 ☁️ Interested in Cloud Computing
 🎯 Focused on building strong problem-solving skills to address real life problems
 
 🧠 Skills
+
 Languages:
 * Java
 * Python
