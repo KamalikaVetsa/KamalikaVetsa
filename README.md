@@ -37,7 +37,7 @@ Tools:
 
 📫 Connect With Me
 
-* 💼 LinkedIn:www.linkedin.com/in/kamalika-vetsa-00404a330
-* 📧 Email:vetsa.kamalika@gmail.com
+* 💼 LinkedIn: www.linkedin.com/in/kamalika-vetsa-00404a330
+* 📧 Email: vetsa.kamalika@gmail.com
 
 ⭐ Learn to do , by doing !
