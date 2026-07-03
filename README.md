@@ -1,4 +1,4 @@
-👋 Hi there , I'm Kamalika Vetsa
+👋 Hi there , I'm Sindhu Goutham
 
 A Computer Science Student ,
 An Aspiring Software Developer
